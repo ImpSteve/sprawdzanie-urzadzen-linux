@@ -10,11 +10,12 @@
 Konsola Linuxa jest konsolą systemową zawartą w jądrze Linuxa (kernel).
 Pozwalaja na komunikację między użytkownikiem a urządzeniem, za pomocą wydawanych poleceń.
 Aktualnie jądro systemu pozwala na wirtualne emulatory konsoli zwane - terminalem, będące oddzielone od jądra, 
-a komunikacja odbywa się dzięki powłoce systemowej (shell)
-Jak wywołać terminal?
-Dla systemu Ubuntu otworzyć terminal możemy za pomocą skrótu klawiszowego `Ctrl + Alt + T`, klikając prawym przyciskiem myszy na pulpit i wybrać opcję otwórz terminal oraz bezpośrednio z menu aplikacji.
-
-
+a komunikacja odbywa się dzięki powłoce systemowej (shell).
+### Jak otworzyć terminal?
+W systemie Ubuntu otworzyć terminal możemy za pomocą:
+- skrótu klawiszowego `Ctrl + Alt + T`
+- klikając prawym przyciskiem myszy na pulpit i wybrać opcję Otwórz terminal
+- za pomocą menu z aplikacjami
 
 ## 2. Przygotowanie narzędzi
 - instalacja pakietu narzędzi `net-tools`:
