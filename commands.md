@@ -3,11 +3,18 @@
 ## 1. Sprawdzić i wyświetlić informacje o sprzęcie komputerowym w systemach GNU/Linux możemy na dwa sposoby. Za pomocą:
 
 - programów interfejsu graficznego (GUI)
-- wiersza poleceń/terminala (CLI)
+- wiersza poleceń/terminala/konsoli (CLI)
 
-### Terminal
+### Konsola/Terminal
 
-Czyli emulator konsoli, który pozwala na komunikacje z systemem za pomocą wydawanych poleceń.
+Konsola Linuxa jest konsolą systemową zawartą w jądrze Linuxa (kernel).
+Pozwalaja na komunikację między użytkownikiem a urządzeniem, za pomocą wydawanych poleceń.
+Aktualnie jądro systemu pozwala na wirtualne emulatory konsoli zwane - terminalem, będące oddzielone od jądra, 
+a komunikacja odbywa się dzięki powłoce systemowej (shell)
+Jak wywołać terminal?
+Dla systemu Ubuntu otworzyć terminal możemy za pomocą skrótu klawiszowego `Ctrl + Alt + T`, klikając prawym przyciskiem myszy na pulpit i wybrać opcję otwórz terminal oraz bezpośrednio z menu aplikacji.
+
+
 
 ## 2. Przygotowanie narzędzi
 - instalacja pakietu narzędzi `net-tools`:
