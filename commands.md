@@ -183,11 +183,11 @@ Warto skorzysatać z:
 sudo fdisk -l
 ```
 
-
+Aby sprawdzić wolne miejsce dla wszystkich zamontowanych w systemie dysków i partycji korzystamy z polecenia:
 ```bash
-sudo df -m
+sudo df -h
 ```
-
+Aby wyświetlić dostępne urządzenia USB:
 ```bash
 sudo lsusb
 ```
