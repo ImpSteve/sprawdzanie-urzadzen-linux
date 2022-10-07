@@ -113,7 +113,9 @@ sudo lshw -C cpu
 ## 6. Płyta główna
 - producent
 - model
-- wbudowany kontroler
+```bash
+sudo dmidecode -t baseboard
+```
 
 ## 7. Pamięci RAM
 - rozmiar pamięci
@@ -189,7 +191,6 @@ sudo df -m
 ```bash
 sudo lsusb
 ```
-
 
 
 ## 10. Karta sieciowa
